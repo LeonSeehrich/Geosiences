@@ -1,4 +1,4 @@
-# \# Snow-Model: Degree-day factor method
+#  Snow-Model: Degree-day factor method
 
 
 
@@ -22,7 +22,7 @@ model. J Hydrol 607:127511. https://doi.org/10.1016/j.jhydrol.2022.127511
 
 
 
-\## Calibration\_DDF
+## Calibration\_DDF
 
 
 
@@ -32,7 +32,7 @@ The best parameter set is chosen by calculating the Nash–Sutcliffe Efficiency 
 
 
 
-\### The Input Parameters are:
+### The Input Parameters are:
 
 
 
