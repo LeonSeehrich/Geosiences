@@ -1,4 +1,4 @@
-# \Geosiences
+# Geosiences
 
 
 
