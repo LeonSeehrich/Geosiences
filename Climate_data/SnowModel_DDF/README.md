@@ -123,7 +123,6 @@ The best parameter set is chosen by calculating the Nash–Sutcliffe Efficiency 
 
 
 You need daily precipitation, temperature, and SWE data (all with exactly the same length and no data gaps) to run this code. You can choose the upper and lower limits and the interval of the Tm and DDF values that should be tested.
-
 You get the best values for Tm and DDF. You also get the best achieved NSE and a DataFrame with all parameter sets tested and the resulting NSE values. You get a plot showing the calibration process, with the best parameters marked (if plot=True). Additionally, you get a plot comparing the modelled SWE and the observed SWE for the best parameter sets (if plot=True).
 
 
