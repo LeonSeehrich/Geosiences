@@ -50,7 +50,7 @@ def Calibration_DDF(
     ddf_interval : float
         Interval for testing DDF values
     plot : bool, default=True
-        Whether to generate calibration plot
+        Whether to generate calibration and comparison plot
     date_df : pd.DataFrame, optional
         DataFrame containing date information for time-series plot
     date_col : str, optional
