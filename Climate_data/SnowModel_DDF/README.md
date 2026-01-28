@@ -196,5 +196,6 @@ This Python function calculates the daily Snow [mm], Potential Melt [mm] and Liq
 
 
 You need daily precipitation and temperature (all with exactly the same length and no data gaps) to run this code. Also you need the calibrated values for DDF and Tm. 
+
 You get the calculated Snow (mm), Melt (mm) and Liquid_Water (mm) in a dataframe. This dataframe is saved to a csv file in the defined folder and with the defined filename. You get plots showing the Snow (mm), Melt (mm) and Liquid_Water (mm) time series (if plot=True). 
 
